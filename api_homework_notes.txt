@@ -1,0 +1,4 @@
+
+check out OpenWeatherDataFrame in API activities
+
+for 12/7:  Review: "OpenWeatherMap Wrapper" "Map Wrap"
